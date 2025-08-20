@@ -39,9 +39,14 @@
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="./snpas/page-1.png" alt="Dashboard Preview" width="30%">
-  <img src="./snpas/page-2.png" alt="Event Creation" width="30%">
-  <img src="./snpas/page-3.png" alt="Team Management" width="30%">
+  <h3>Dashboard Preview</h3>
+  <img src="./snpas/page-1.png" alt="Dashboard Preview" width="80%">
+  
+  <h3>Event Management</h3>
+  <img src="./snpas/page-2.png" alt="Event Creation" width="80%">
+  
+  <h3>Team Collaboration</h3>
+  <img src="./snpas/page-3.png" alt="Team Management" width="80%">
 </div>
 
 ## 🚀 Quick Start
