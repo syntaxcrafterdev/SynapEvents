@@ -45,7 +45,7 @@
   <h3>Event Management</h3>
   <img src="./snpas/page-2.png" alt="Event Creation" width="80%">
   
-  <h3>Team Collaboration</h3>
+  <h3>Login Page</h3>
   <img src="./snpas/page-3.png" alt="Team Management" width="80%">
 </div>
 
